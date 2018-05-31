@@ -9,7 +9,6 @@ import { AlertController } from 'ionic-angular';
 export class HomePage {
 
   constructor(public navCtrl: NavController, public alertCtrl: AlertController) {
-
   }
 
   showAlert() {
